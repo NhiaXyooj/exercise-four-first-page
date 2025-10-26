@@ -1,0 +1,30 @@
+.site-header{
+    max-width: 900px;
+    margin: auto;
+}
+.top-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: rgb(132, 172, 83);
+}
+.quick-nav{
+    background-color: azure;
+    margin-right: 20px;
+}
+.wrapper{
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    align-items: stretch;
+    margin-top: 20px;
+}
+.main-content{
+    max-width: 700px;
+    background-color: violet;
+}
+.social-links{
+    max-width: 900px;
+    margin: auto;
+    background-color: rgb(253, 159, 124);
+}
